@@ -53,7 +53,6 @@ Durante o desenvolvimento foram utilizados conceitos de:
 
 * Array de Objetos
 * Classes e Objetos
-* Encapsulamento
 * `Scanner`
 * Busca Sequencial
 * Busca Binária
